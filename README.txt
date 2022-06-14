@@ -10,10 +10,10 @@ TECHNICAL QUESTIONS:
 
 -1-
 
-I chose to use Node, Express, & React because those are the libraries/frameworks I trained myself on. 
-I don't have enough first-hand experience contrasting libraries/frameworks to speak to tradeoffs, but 
-I was peaking at the Python code in the documentation while working on this project and noticed the 
-code seemed to be much more concise.
+I chose to use Node, Express, and React because those are the libraries/frameworks I trained myself on. 
+I don't have much first-hand experience contrasting libraries/frameworks to speak to tradeoffs, but 
+I was peeking at the Python code in the documentation while working on this project and noticed the 
+code to be much more concise.
 
 -2-
 
