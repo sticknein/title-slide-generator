@@ -3,7 +3,6 @@ TO RUN:
 1. Make a .env file in the root directory. 
     a. You should have the CLIENT_ID & CLIENT_SECRET.
     b. REDIRECT_URI=http://localhost:5000/oauth_callback/
-    c. CLEARBIT_API_KEY=sk_73f3729c3c31984f8529515cabadf3c7
 2. Run npm install in both the root and client directories.
 3. Run npm start in the root directory to start both server & client.
 
